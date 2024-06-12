@@ -1,0 +1,35 @@
+*{
+   margin: 0%;
+   padding: 0%;
+   background-color: aquamarine;
+}
+.mainheader {
+    height: 80px;
+}
+.topbar{
+height: 20px;
+background-color: beige;
+color: pink;
+text-align: center;
+}
+.rs{
+color: greenyellow;
+background-color: blueviolet;
+font-weight: 800;
+}
+
+.navbar{
+height: 60px;
+background-color: orange;
+}
+.navbar > h1{
+    display: inline;
+    background-color: black;
+    margin-left: 10px;
+}
+
+input{
+margin-left: 140px;
+margin-right: 250px;
+
+}
